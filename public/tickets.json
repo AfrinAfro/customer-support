@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User cannot login into the account.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Payment gateway is not responding.",
+    "customer": "Sarah Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-19"
+  },
+  {
+    "id": 3,
+    "title": "Password Reset",
+    "description": "Customer did not receive reset email.",
+    "customer": "Michael Lee",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-18"
+  },
+  {
+    "id": 4,
+    "title": "Dashboard Crash",
+    "description": "Dashboard crashes after login.",
+    "customer": "Emma Watson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-17"
+  },
+  {
+    "id": 5,
+    "title": "Slow Website",
+    "description": "Website loading speed is very slow.",
+    "customer": "David Miller",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-16"
+  },
+  {
+    "id": 6,
+    "title": "Profile Update Error",
+    "description": "User cannot update profile information.",
+    "customer": "Sophia Brown",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "title": "Notification Bug",
+    "description": "Push notifications are not working.",
+    "customer": "Daniel Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-14"
+  },
+  {
+    "id": 8,
+    "title": "File Upload Failed",
+    "description": "Users cannot upload files.",
+    "customer": "Olivia Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-13"
+  },
+  {
+    "id": 9,
+    "title": "Email Verification",
+    "description": "Verification email not received.",
+    "customer": "James Anderson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-12"
+  },
+  {
+    "id": 10,
+    "title": "Search Not Working",
+    "description": "Search results are not appearing.",
+    "customer": "Mia Thomas",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-11"
+  }
+]
