@@ -1,5 +1,3 @@
-navbar
-
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100 border-b border-gray-200 px-4 lg:px-12 py-3">
